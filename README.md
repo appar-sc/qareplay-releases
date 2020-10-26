@@ -1,6 +1,6 @@
 ![](https://qareplay.com/images/QAReplay.svg)
 
-QAReplay is a smart screen recorder, instant replay for bug reporting
+QAReplay is a smart screen recording, instant replay tool for bug reporting.
 
 
 
