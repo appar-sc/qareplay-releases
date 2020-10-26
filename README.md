@@ -2,7 +2,7 @@
 
 QAReplay is a smart screen recording, instant replay tool for bug reporting.
 
-> Spot, Capture, then Share the key moments. For macOS, Windows and Linux Ubuntu
+> Spot, Capture, then Share the key moments. For macOS, Windows and Linux Ubuntu.
 
 Please find latest releases here:
 https://github.com/appar-sc/qareplay-releases/releases
