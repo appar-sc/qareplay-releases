@@ -7,7 +7,7 @@ QAReplay is a smart screen recording, instant replay tool for bug reporting.
 Please find latest releases here:
 https://github.com/appar-sc/qareplay-releases/releases
 
-Feel free to report or give us feedback here:
+Feel free to report or give us feedbacks here:
 https://github.com/appar-sc/qareplay-releases/issues
 
 For more info, please check
